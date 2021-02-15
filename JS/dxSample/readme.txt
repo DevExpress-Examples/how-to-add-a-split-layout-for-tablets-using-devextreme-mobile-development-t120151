@@ -1,1 +1,0 @@
-﻿We recommend that you setup a local web server and run this application in it. 
